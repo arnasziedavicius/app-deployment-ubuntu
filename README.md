@@ -33,7 +33,7 @@ Upon placing the scripts on the server, make sure to check and fill in the confi
 |API_URL|The base URL for the API|`https://api.app.com`|
 |APP_URL|The base URL for the front-end|`https://app.com`|
 
-## Using the Tools
+## Usage
 
 Run the initialisation script.
 ``` bash
