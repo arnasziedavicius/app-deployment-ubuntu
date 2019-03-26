@@ -1,6 +1,6 @@
 # app-deployment-ubuntu
 
-Shell scripts for automated application initialisation (`init.sh`) and updating (`update.sh`) on bare Ubuntu. Built with [Nuxt.js](https://nuxtjs.org/) in mind but can be applied to any node app depending on build scripts and prerequisites.
+Shell scripts for automated application initialisation (`init.sh`) and updating (`update.sh`) on bare Ubuntu. Built with [Nuxt.js](https://nuxtjs.org/) in mind but can be applied to any app depending on build scripts and prerequisites.
 
 In basic terms, the initialisation script will:
 * Install the necessary software
