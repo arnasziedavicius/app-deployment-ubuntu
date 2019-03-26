@@ -20,7 +20,7 @@ Place the scripts in your system user's home directory and make sure they have t
 
 ##### Rquired Environment Variables
 
-Upon placing the scripts on the server, make sure to check and fill in the configuration variables defined inside both files.
+Make sure to check and fill in the configuration variables defined inside both files:
 
 |Variable|Description|Default Value|
 |:---|---|---|
@@ -35,14 +35,14 @@ Upon placing the scripts on the server, make sure to check and fill in the confi
 
 ## Usage
 
-Run the initialisation script.
+Run the initialisation script:
 ``` bash
 ~/init.sh <your_access_token>
 ```
 
 `your_access_token` argument is optional and can be passed to save from Git user and password prompts. Please refer to [this](https://github.com/settings/tokens) for obtainining the token on GitHub.
 
-Run the update script.
+Run the update script:
 ``` bash
 ~/update.sh 
 ```
