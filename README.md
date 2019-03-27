@@ -44,7 +44,7 @@ Run the initialisation script:
 ~/init.sh <your_access_token>
 ```
 
-`your_access_token` argument is optional and can be passed to save from Git user and password prompts. Please refer to [this](https://github.com/settings/tokens) for obtainining the token on GitHub.
+*`your_access_token` argument is optional and can be passed to save from Git user and password prompts. Please refer to [this](https://github.com/settings/tokens) for obtainining the token on GitHub.*
 
 Run the update script:
 ``` bash
