@@ -22,7 +22,7 @@ Place the scripts in your Ubuntu user directory and make sure they have the righ
 chmod +x init.sh && chmod +x update.sh
 ```
 
-##### Rquired Environment Variables
+##### Rquired Configuration Variables
 
 Make sure to check and fill in the configuration variables defined inside both files:
 
