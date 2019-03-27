@@ -16,7 +16,11 @@ While the update script will:
 
 ## Setup
 
-Place the scripts in your Ubuntu user directory and make sure they have the right access permissions. Permissions can be changed by running `chmod +x init.sh && chmod +x update.sh` command.
+Place the scripts in your Ubuntu user directory and make sure they have the right access permissions. Run the following command to change permissions:
+
+``` bash
+chmod +x init.sh && chmod +x update.sh
+```
 
 ##### Rquired Environment Variables
 
